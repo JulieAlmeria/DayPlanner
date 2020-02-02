@@ -1,0 +1,64 @@
+.time-block{
+  text-align: center;
+  border-radius: 15px;
+
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  /*padding: 10px;*/
+}
+
+
+.description{
+  white-space: pre-wrap;
+}
+
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;;
+}
+
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: rgb(235, 17, 188);
+  color: white;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px solid #000000;
+}
+
+.past {
+  background-color: #d3d3d3;
+  color: white;
+}
+
+.present {
+  background-color: #09ddec;
+  color: white;
+}
+
+.future {
+  background-color: #c111e4;
+  color: white;
+}
+
+
